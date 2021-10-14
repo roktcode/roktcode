@@ -5,4 +5,4 @@ I like to invest more tech all the time, it's a hobby!
 Check out my recent repos, you can also view my portfolio in more detail at
 https://roktlander.vercel.app 
 
-Check out the contact page to get in touch, have a awesome life 🌷
+Check out the contact page to get in touch, have an awesome life 🌷
